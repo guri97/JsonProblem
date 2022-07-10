@@ -4,9 +4,12 @@
     {
         public static void Main(string[] args)
         {
-            JSONDataOperation.jsonSerialize();
+            //JSONDataOperation.jsonSerialize();
+            //JSONDataOperation.JsonDeserialization();
 
-            JSONDataOperation.JsonDeserialization();
+            XMLDataOperation.xmlSerialize();
+            XMLDataOperation.XmlDeSerialize();
+
 
 
         }
