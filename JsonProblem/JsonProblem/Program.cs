@@ -7,9 +7,11 @@
             //JSONDataOperation.jsonSerialize();
             //JSONDataOperation.JsonDeserialization();
 
-            XMLDataOperation.xmlSerialize();
-            XMLDataOperation.XmlDeSerialize();
+            //XMLDataOperation.xmlSerialize();
+            //XMLDataOperation.XmlDeSerialize(); 
 
+            CSVOperation.CSVSerilaization();
+            CSVOperation.CSVDeserialize();
 
 
         }
